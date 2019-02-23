@@ -1,0 +1,174 @@
+*{
+  background-color: #C0C0C0;
+}
+.nav{
+  background-color: #0B0909;
+  color:#ffffff;
+  list-style:none;
+  text-align: center;
+  padding: 20px 0px 20px 0px;
+}
+
+.nav> li {
+  display: inline-block;
+  padding: 0px 25px 0px 25px;
+}
+
+.nav> li> a{
+  text-decoration: none;
+  color: #000000;
+  font-family: Aladin;
+}
+
+.nav> li> a:hover{
+  color: #E6E1E1;
+}
+
+h1{
+  text-align: center;
+  font-family: Satisfy;
+  font-size: 35px;
+}
+h3{
+  text-align: center;
+  font-size: 22px;
+  font-family: Alegreya;
+  text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
+}
+.top{
+font-family:"Unica One";
+color:#1A5866;
+}
+
+/*PAGE #1*/
+p1{
+  font-size: 22px;
+  font-family: "Nova Script";
+}
+img{
+  border:7px solid #0B0909;
+  padding:1px;
+  border-style: dotted;
+  border-radius: 15px;
+}
+img1{
+  border:7px solid #0B0909;
+  padding:1px;
+  border-style: dotted;
+  border-radius: 15px;
+}
+p111{
+  font-family: Oleo Script;
+  letter-spacing:1px;
+  word-spacing:2px;
+  font-size: 25px;
+}
+.p1 {
+  padding:10px 25px;
+  border: 7px solid #0B0909;
+  border-style: double;
+  border-radius:10px;
+}
+.content{
+  color:#000000 ;
+  padding:10px 25px;
+  border: 7px solid #0B0909;
+  border-style: double;
+  border-radius:10px;
+}
+p{
+  color:#000000 ;
+  font-family: Delius;
+}
+
+
+/*LYRICS*/
+.lyrics{
+  color:#000000 ;
+  padding:10px 25px;
+  border: 7px solid #0B0909;
+  border-style: double;
+  border-radius:10px;
+  line-height: 40px;
+}
+p33{
+  text-align: center;
+  font-family: "Special Elite";
+}
+.lyrics{
+  text-align: center;
+}
+p3{
+  font-family: "Rock Salt";
+  text-align: center;
+  font-size: 18px;
+}
+
+p333{
+  font-family: Oleo Script;
+  font-size: 17px;
+}
+.na{
+  height:50px;
+  width:100px;
+}
+
+
+/*KEYS*/
+.keys{
+  color:#000000 ;
+  padding:10px 25px;
+  border: 7px solid #0B0909;
+  border-style: double;
+  border-radius:10px;
+}
+p2{
+  font-family: Delius;
+}
+
+
+/*POEM*/
+.poem{
+  padding:10px 25px;
+  border: 7px solid #0B0909;
+  border-style: double;
+  border-radius:10px;
+  line-height: 30px;
+}
+p4{
+  font-family: Delius;
+}
+
+/*IMPACT*/
+.impact1{
+  padding:10px 25px;
+  border: 10px solid #0B0909;
+  border-style: groove;
+  border-radius:10px;
+  line-height: 30px;
+}
+.Impact{
+  padding:10px 25px;
+  border: 9px solid #0B0909;
+  border-style: double;
+  border-radius:10px;
+  line-height: 30px;
+}
+p55{
+  font-family: Delius;
+}
+p555{
+  font-family: PT Mono;
+  font-size:  15px;
+}
+p55555{
+  font-size:15px;
+  font-family:"Special Elite";
+  color: #661B1A;
+}
+p5{
+  font-family: "Nova Script";
+  font-size: 22px;
+}
+  
+  
